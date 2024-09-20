@@ -5,4 +5,12 @@ const lname = "paliwal"
 
 const fullName = () => {
     console.log(fname + " " + lname ) ;
+    return fname + " " + lname ; 
+}
+
+const name  = fullName()
+
+const toupper = (name) => {
+    return name.toUpperCase() ;
+
 }
