@@ -17,4 +17,7 @@ const toupper = (name) => {
 const featureA = () => {
 
 }
+const featureB = () => {
+
+}
 
