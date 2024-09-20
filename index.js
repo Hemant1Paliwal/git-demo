@@ -1,2 +1,3 @@
 console.log("hello world");
-const name= 'hemant' ;
+const fname= 'hemant' ;
+const lname = "paliwal"
