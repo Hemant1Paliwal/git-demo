@@ -14,3 +14,8 @@ const toupper = (name) => {
     return name.toUpperCase() ;
 
 }
+
+const toLower = (name) => {
+    return name.toLowerCase() ; 
+    
+}
