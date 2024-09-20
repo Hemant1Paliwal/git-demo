@@ -15,7 +15,3 @@ const toupper = (name) => {
 
 }
 
-const toLower = (name) => {
-    return name.toLowerCase() ; 
-    
-}
